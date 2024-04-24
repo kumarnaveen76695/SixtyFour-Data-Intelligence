@@ -1,0 +1,29 @@
+.sidebar {
+    width: 250px;
+    background-color: #333;
+    color: #fff;
+    transition: width 0.3s ease;
+  }
+  
+  .closed {
+    width: 50px;
+  }
+  
+  .toggle-btn {
+    width: 100%;
+    padding: 10px;
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .sidebar-menu {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar-menu li {
+    padding: 10px;
+  }
+  
