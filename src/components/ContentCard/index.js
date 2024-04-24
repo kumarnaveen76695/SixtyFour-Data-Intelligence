@@ -1,6 +1,7 @@
 // components/ContentCard.js
 import React from 'react';
-import './ContentCard.css';
+
+import './index.css';
 
 function ContentCard({ title, description, image }) {
   return (

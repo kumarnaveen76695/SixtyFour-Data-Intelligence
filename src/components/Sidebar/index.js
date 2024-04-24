@@ -1,6 +1,6 @@
 // components/Sidebar.js
 import React, { useState } from 'react';
-import './Sidebar.css';
+import './index.css';
 
 function Sidebar() {
   const [isOpen, setIsOpen] = useState(true);
